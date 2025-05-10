@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperlyBug.Domain", "MapperlyBug.Domain\MapperlyBug.Domain.csproj", "{EF7D3C09-789C-4FDD-A8D1-B70F36C97936}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperlyBug.Application", "MapperlyBug.Application\MapperlyBug.Application.csproj", "{D8863E54-8FE9-4F47-9D3F-340BCF4CBBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperlyBug.Domain.PurchaseOrder", "MapperlyBug.Domain.PurchaseOrder\MapperlyBug.Domain.PurchaseOrder.csproj", "{555BCA46-0897-4ABA-AE87-1FE2874D926A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D8863E54-8FE9-4F47-9D3F-340BCF4CBBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8863E54-8FE9-4F47-9D3F-340BCF4CBBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8863E54-8FE9-4F47-9D3F-340BCF4CBBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555BCA46-0897-4ABA-AE87-1FE2874D926A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555BCA46-0897-4ABA-AE87-1FE2874D926A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555BCA46-0897-4ABA-AE87-1FE2874D926A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555BCA46-0897-4ABA-AE87-1FE2874D926A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

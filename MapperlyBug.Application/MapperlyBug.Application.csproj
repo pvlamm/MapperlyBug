@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MapperlyBug.Domain.PurchaseOrder\MapperlyBug.Domain.PurchaseOrder.csproj" />
     <ProjectReference Include="..\MapperlyBug.Domain\MapperlyBug.Domain.csproj" />
   </ItemGroup>
 
